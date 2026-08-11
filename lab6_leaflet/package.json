@@ -1,0 +1,16 @@
+{
+  "name": "lab4_js",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite --config www/vite.config.js",
+    "server": "node server.js",
+    "build": "vite build --config www/vite.config.js"
+  },
+  "dependencies": {
+    "bootstrap": "^5.3.8",
+    "express": "^5.2.1",
+    "leaflet": "^1.9.4",
+    "vite": "^8.1.4"
+  }
+}

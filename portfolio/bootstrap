@@ -1,0 +1,39 @@
+มาจาก Bootstrap navs&tabs
+<ul class="nav">
+    <li class="nav-item">
+        <a class="nav-link active" aria-current="page" href="#">Active</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link" href="#">Link</a>
+    </li>
+    <li class="nav-item">
+        <a class="nav-link disabled" aria-disabled="true">Disabled</a>
+    </li>
+</ul>
+
+images
+<img src="..." class="rounded float-start" alt="...">
+<img src="..." class="rounded float-end" alt="...">
+
+
+w-25 ms-5 text-center
+
+
+
+
+เพิ่มเติม
+bg-opacity-25 คือการปรับความทึบของพื้นหลังให้
+d-inline-flex คือการจัดเรียงรายการในแนวนอน
+rounded-pill คือการกำหนดขอบของรายการเป็นรูปวงรี
+active คือการระบุว่ารายการนั้นเป็นรายการที่ถูกเลือกอยู่
+active:hover คือการระบุว่ารายการนั้นถูกเลือกและมีการโฮเวอร์อยู่
+2อันด้านบนสามารถเปลี่ยนสีได้ เป็นลูกเล่น
+
+w-75 คือการกำหนดความกว้างของรายการเป็น 75% ของความกว้างของหน้าจอ
+mx-auto คือการจัดกึ่งกลางของรายการในแนวนอน
+flex-column คือการจัดเรียงรายการในแนวตั้ง
+flex-md-row คือการจัดเรียงรายการในแนวนอนเมื่อหน้าจอมีขนาดกลางขึ้นไป
+gap-4 คือ คำสั่งจัดเรียง

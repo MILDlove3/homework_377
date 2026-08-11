@@ -1,0 +1,84 @@
+.bg-color {
+    background-color: #b5d5f5;
+}
+
+.mt {
+    margin-top: 20px;
+}
+
+.card-height {
+    height: 360px;
+}
+
+.bg-portfolio {
+    background-image: url('w2.jpg');
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+
+}
+
+.container {
+    color: #361039;
+    border-style: dashed;
+    border-color: rgb(61, 137, 81);
+    border-radius: 10%;
+    border-width: 1px;
+    padding-top: 5cap;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 5px;
+}
+
+.container-bg {
+    background-color: rgba(81, 64, 66, 0.697);
+    border-radius: 10%;
+
+}
+
+.my-font {
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+}
+
+.you-font {
+    font-family: "Oswald", sans-serif;
+    font-size: 50px;
+}
+
+#container-id {
+    color: #ae2392;
+    margin-top: 50px;
+}
+
+.bg-radius {
+    border-radius: 10%;
+    border-width: 2px;
+    padding-top: 15px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 15px;
+
+}
+
+.bg-style {
+    border-style: solid
+}
+
+.my-color {
+    color: #3e76c0;
+}
+
+.active {
+    color: #000000;
+}
+
+.active:hover {
+    color: #e71c1c;
+}
+
+.font {
+    font-family: "Oswald", sans-serif;
+    font-size: 30px;
+}
