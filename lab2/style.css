@@ -1,0 +1,29 @@
+h3 {
+    color: deeppink
+}
+
+.container {
+    color: #361039;
+    border-style: dashed;
+    border-color: rgb(61, 137, 81);
+    border-radius: 10px;
+    border-width: 1px;
+    padding-top: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+}
+
+.container-bg {
+    background-color: rgb(237, 220, 237);
+}
+
+.my-font {
+    font-family: "Oswald", sans-serif;
+    font-size: 16px;
+}
+
+#container-id {
+    color: #3c23ae;
+    margin-top: 50px;
+}
